@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center"><b>Mucho gusto, soy Diego Barragán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 
-<!--
-**dialejobv/dialejobv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer+@dialejobv.ai;Master+of+Engineering;Robotics+and+AI+Developer;Winner+of+the+MinTIC+and+Apps.co+Hackaton;High+experience+in+handling+Python;Professor+of+Electronic+Engineering+at+USTA;I+love+Robotics+and+Artificial+Intelligence;Always+learning+new+things"></a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Trabajando Juicioso 💻</h2>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,css,java,typescript,javascript,flutter,py,ros,latex,html,js,nodejs,mysql,sqlite,git,github,postman,docker,vscode,bash,linux,ai,matlab,octave&perline=25" />
+  </a>
+</p>
+<br>
+
+<br>
+
+<h2>GitHub :octocat:</h2>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="60%" align="center">
+
+<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
+  <br></br> -->
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dialejobv&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="60%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dialejobv&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table> 
+<!--- stats (end) -->
+<!--- trophy (start) -->
+
+<h2>🏆 Algunas Métricas</h2>
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dialejobv&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/dialejobv)
+  
+</div>
+
+
+
