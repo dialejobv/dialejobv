@@ -50,5 +50,16 @@
   
 </div>
 
+<div align="center">
+  <h3><b>📍 Contador de Visitas Profesional</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/dialejobv/count.svg"
+    alt="Número de visitantes del perfil"
+  />
+</p>
+
 
 
