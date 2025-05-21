@@ -30,7 +30,8 @@
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dialejobv&theme=dark&hide_border=false" /> 
+  [![Diego github stats](https://github-readme-stats.vercel.app/api?username=dialejobv&show_icons=true&theme=merko)](https://github.com/dialejobv/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dialejobv&layout=compact&theme=merko)](https://github.com/dialejobv/github-readme-stats)
+
 </td>
 
 <td width="60%" align="center">
