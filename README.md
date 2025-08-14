@@ -57,7 +57,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/dialejobv/count.svg"
+    src="https://github.com/dialejobv"
     alt="Número de visitantes del perfil"
   />
 </p>
