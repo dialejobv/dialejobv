@@ -46,9 +46,9 @@
 
 <h2>🏆 Algunas Métricas</h2>
  
-<div align="center">
+
 https://github-profile-trophy.vercel.app/?username=dialejobv2&column=3
-</div>
+
 
 <div align="center">
   <h3><b>📍 Contador de Visitas Profesional</b></h3>
