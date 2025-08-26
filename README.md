@@ -47,7 +47,7 @@
 <h2>🏆 Algunas Métricas</h2>
  
 <div align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=dialejobv)](https://github.com/dialejobv/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=dialejobv2&column=3
 </div>
 
 <div align="center">
