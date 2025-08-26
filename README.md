@@ -45,10 +45,10 @@
 <!--- trophy (start) -->
 
 <h2>🏆 Algunas Métricas</h2>
-<div align=center>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dialejobv&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/dialejobv)
-  
+<div align="center">
+  <img  src = "https://github.com/dialejobv/dialejobv/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
 
 <div align="center">
