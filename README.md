@@ -47,8 +47,7 @@
 <h2>🏆 Algunas Métricas</h2>
  
 <div align="center">
-  <img  src = "https://github.com/dialejobv/dialejobv/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
+  <img  src = "https://github.com/dialejobv/dialejobv//profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
 
 <div align="center">
