@@ -56,10 +56,7 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://github.com/dialejobv"
-    alt="Número de visitantes del perfil"
-  />
+  ![](https://komarev.com/ghpvc/?username=dialejobv&label=Visitantes de Perfil)
 </p>
 
 
