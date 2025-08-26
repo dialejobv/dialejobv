@@ -47,7 +47,7 @@
 <h2>🏆 Algunas Métricas</h2>
  
 <div align="center">
-  <img  src = "https://github.com/dialejobv/dialejobv//profile-3d-contrib/profile-season-animate.svg" alt="3d-contrib" height = 85% width = 70% /></a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=dialejobv)](https://github.com/dialejobv/github-profile-trophy)
 </div>
 
 <div align="center">
