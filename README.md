@@ -55,9 +55,7 @@
   <h3><b>📍 Contador de Visitas Profesional</b></h3>
 </div>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=dialejobv&label=Visitantes de Perfil)
-</p>
+![](https://komarev.com/ghpvc/?username=dialejobv&style=for-the-badge)
 
 
 
