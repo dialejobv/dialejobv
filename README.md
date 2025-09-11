@@ -47,7 +47,9 @@
 <h2>🏆 Algunas Métricas</h2>
  
 
-https://github-profile-trophy.vercel.app/?username=dialejobv2&column=3
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dialejobv&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
 
 
 <div align="center">
