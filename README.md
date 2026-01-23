@@ -2,7 +2,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer+@dialejobv.ai;Master+of+Engineering;Robotics+and+AI+Developer;Winner+of+the+MinTIC+and+Apps.co+Hackaton;High+experience+in+handling+Python;Professor+of+Electronic+Engineering+at+USTA;I+love+Robotics+and+Artificial+Intelligence;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer+@dialejobv.ai;Master+of+Engineering;Robotics+and+AI+Developer;Winner+of+the+MinTIC+and+Apps.co+Hackaton;High+experience+in+handling+Python;Professor+of+Electronic+Engineering;I+love+Robotics+and+Artificial+Intelligence;Always+learning+new+things"></a>
 </p>
 
 <h2 align="center">Trabajando Juicioso 💻</h2>
@@ -44,12 +44,30 @@
 <!--- stats (end) -->
 <!--- trophy (start) -->
 
-<h2>🏆 Algunas Métricas</h2>
- 
+<h2>🧠 Fortalezas Tecnológicas</h2>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dialejobv&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
+
+<table align="center">
+  <tr>
+	  <td width="50%">
+      <h3>🏆 Áreas de Conocimiento</h3>
+      <ul>
+        <li>🔌 Electrónica & Sistemas Embebidos</li>
+        <li>🌐 IoT (Sensores, actuadores, comunicación)</li>
+        <li>🤖 Inteligencia Artificial & ML</li>
+        <li>🧠 Visión Artificial & NLP</li>
+        <li>🐧 Linux & Ciberseguridad</li>
+        <li>🐳 Docker & DevOps</li>
+        <li>🎓 Docencia tecnológica</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <div align="center">
