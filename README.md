@@ -30,7 +30,10 @@
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  [![Diego github stats](https://github-readme-stats.vercel.app/api?username=dialejobv&show_icons=true&theme=merko)](https://github.com/dialejobv/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dialejobv&layout=compact&theme=merko)](https://github.com/dialejobv/github-readme-stats)
+
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  
+
 
 </td>
 
