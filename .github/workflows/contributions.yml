@@ -1,1 +1,32 @@
+name: Update contribution graph
 
+on:
+  schedule:
+    - cron: "0 5 * * *"   # every day at 05:00 UTC (midnight in Bogotá)
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/**"
+
+permissions:
+  contents: write
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw the graph from real contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/contributions.py
+
+      - name: Commit the new graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git diff --cached --quiet || git commit -m "Update contribution graph"
+          git push
