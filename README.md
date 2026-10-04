@@ -1,83 +1,53 @@
-<h1 align="center"><b>Mucho gusto, soy Diego Barragán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Diego Barragán: electronics engineer, robotics and AI researcher">
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electronic+Engineer+@dialejobv.ai;Master+of+Engineering;Robotics+and+AI+Developer;Winner+of+the+MinTIC+and+Apps.co+Hackaton;High+experience+in+handling+Python;Professor+of+Electronic+Engineering;I+love+Robotics+and+Artificial+Intelligence;Always+learning+new+things"></a>
+  I teach machines to see, and I build the electronics and robots that put that vision to work.
 </p>
 
-<h2 align="center">Trabajando Juicioso 💻</h2>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="9 publications, 1 patent pending, hackathon winner, PhD in progress">
 </p>
-<div align="center">
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,css,java,typescript,javascript,flutter,py,ros,latex,html,js,nodejs,mysql,sqlite,git,github,postman,docker,vscode,bash,linux,ai,matlab,octave&perline=25" />
-  </a>
+## Research in motion
+
+Tap a card to open the paper.
+
+<p align="center">
+  <img src="./assets/p-robot.svg" width="100%" alt="Assistive robot for Alzheimer's memory training (PhD thesis, in progress)">
+  <a href="https://repository.udistrital.edu.co/items/34589746-cb5e-4336-9f70-668bf60ea23b"><img src="./assets/p-carpal.svg" width="100%" alt="Carpal tunnel prevention with neural networks (master's thesis)"></a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-07920-7_29"><img src="./assets/p-retina.svg" width="100%" alt="Detecting diabetic retinopathy with neural networks (Springer)"></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9208855"><img src="./assets/p-turbine.svg" width="100%" alt="Neural yaw control for wind turbines (IEEE)"></a>
+  <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2090/1/012023/pdf"><img src="./assets/p-nano.svg" width="100%" alt="Tracking magnetic nanoparticles in blood flow (IOP)"></a>
+  <a href="http://www.irphouse.com/ijert21/ijertv14n8_04.pdf"><img src="./assets/p-ulnar.svg" width="100%" alt="Classifying ulnar syndrome from muscle signals (IJERT)"></a>
+  <a href="https://www.ripublication.com/ijaer21/ijaerv16n8_04.pdf"><img src="./assets/p-breast.svg" width="100%" alt="Breast cancer detection with a neural network (IJAER)"></a>
+  <a href="https://www.ripublication.com/ijaer21/ijaerv16n7_04.pdf"><img src="./assets/p-filter.svg" width="100%" alt="A band-pass filter designed by genetic algorithms (IJAER)"></a>
+  <a href="https://www.ripublication.com/ijaer18/ijaerv13n20_08.pdf"><img src="./assets/p-telemed.svg" width="100%" alt="Telemedicine in Colombia: where the technology stands (IJAER)"></a>
 </p>
-<br>
 
-<br>
+## Toolbox
 
-<h2>GitHub :octocat:</h2>
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="60%" align="center">
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Python, PyTorch, TensorFlow, computer vision, ROS, embedded C, microcontrollers, IoT, Linux, Docker, AWS, GCP, MATLAB, TypeScript, React Native, PostgreSQL">
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+## Contributions
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  
+<p align="center">
+  <img src="./assets/robot.svg" width="100%" alt="A robot pointing at my contribution graph">
+  <a href="https://github.com/dialejobv?tab=repositories"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dialejobv&bg_color=0E2A47&color=EAF2F8&line=5CE1E6&point=E8A04C&area=true&hide_border=true" width="100%" alt="Diego Barragán's GitHub contribution graph for the last 31 days"></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dialejobv&label=PROFILE+VIEWS&color=5CE1E6&style=for-the-badge" alt="Profile views counter">
+</p>
 
-</td>
+## Contact
 
-<td width="60%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dialejobv&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table> 
-<!--- stats (end) -->
-<!--- trophy (start) -->
-
-<h2>🧠 Fortalezas Tecnológicas</h2>
-
-
-<table align="center">
-  <tr>
-	  <td width="50%">
-      <h3>🏆 Áreas de Conocimiento</h3>
-      <ul>
-        <li>🔌 Electrónica & Sistemas Embebidos</li>
-        <li>🌐 IoT (Sensores, actuadores, comunicación)</li>
-        <li>🤖 Inteligencia Artificial & ML</li>
-        <li>🧠 Visión Artificial & NLP</li>
-        <li>🐧 Linux & Ciberseguridad</li>
-        <li>🐳 Docker & DevOps</li>
-        <li>🎓 Docencia tecnológica</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
-<div align="center">
-  <h3><b>📍 Contador de Visitas Profesional</b></h3>
-</div>
-
-![](https://komarev.com/ghpvc/?username=dialejobv&style=for-the-badge)
-
-
-
+<p align="center">
+  <a href="mailto:dialejobv@yahoo.com">Email</a> |
+  <a href="https://www.linkedin.com/in/diego-alejandro-barrag%C3%A1n-vargas-2958b0171">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?hl=es&user=Bp3QMQMAAAAJ">Google Scholar</a> |
+  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001655355">CvLAC</a>
+</p>
