@@ -36,7 +36,7 @@ Tap a card to open the paper.
 
 <p align="center">
   <img src="./assets/robot.svg" width="100%" alt="A robot pointing at my contribution graph">
-  <a href="https://github.com/dialejobv?tab=repositories"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dialejobv&bg_color=0E2A47&color=EAF2F8&line=5CE1E6&point=E8A04C&area=true&hide_border=true" width="100%" alt="Diego Barragán's GitHub contribution graph for the last 31 days"></a>
+    <a href="https://github.com/dialejobv?tab=repositories"><img src="./assets/contributions.svg" width="100%" alt="Diego Barragán's GitHub contribution graph for the last 31 days"></a>
 </p>
 
 <p align="center">
